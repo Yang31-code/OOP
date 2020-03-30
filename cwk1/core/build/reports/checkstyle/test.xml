@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.27">
+<file name="C:\Users\16789\Desktop\cwk1-files\cwk1\core\src\test\java\comp1721\cwk1\Basic.java">
+</file>
+<file name="C:\Users\16789\Desktop\cwk1-files\cwk1\core\src\test\java\comp1721\cwk1\Full.java">
+<error line="92" severity="warning" message="本行字符数 101个，最多：100个。" source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+</checkstyle>
